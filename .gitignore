@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+.DS_Store
+config
+export
+export.sh
+k8s-export.go
